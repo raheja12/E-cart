@@ -1,0 +1,73 @@
+#table_1
+{
+  width: 100%;
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background:white;
+  padding-top: 10px;
+}
+.center_div
+{
+  width: 25%;
+  background: linear-gradient(to bottom right, #FEEDF6, #FCF0E2);
+  background-image: linear-gradient(to right bottom, rgb(254, 237, 246), rgb(252, 240, 226));
+  background-position-x: initial;
+  background-position-y: initial;
+  background-size: initial;
+  background-repeat-x: initial;
+  background-repeat-y: initial;
+  background-attachment: initial;
+  background-origin: initial;
+  background-clip: initial;
+  background-color: initial;
+  height: 400px;
+  margin-left: 37%;
+  margin-top: 40px;
+}
+.center_div > p
+{
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 30px;
+}
+#table_in_center_div
+{
+  margin-left: 18%;
+  width: 63%;
+  height: 47%;
+}
+#register_button
+{
+  height: 10%;
+  width: 63%;
+  background-color:thistle;
+  letter-spacing: 4px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#input_type
+{
+  height: 75%;
+  width: 100%;
+  border-radius: 10px;
+}
+label
+{
+  margin-right: 12px;
+}
+#radio
+{
+  margin: 4px 7px 0;
+}
+#table_2 td
+{
+  text-align: center;
+  font-family:Arial, Helvetica, sans-serif;
+  padding-top: 20px;
+  padding-right: 10px;
+  padding-bottom: 30px;
+  padding-left: 10px;
+}
+#table_2 th
+{
+  text-align: center;
+}
